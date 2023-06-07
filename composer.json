@@ -1,0 +1,7 @@
+{
+  "name": "somyatomar/ceptor-club",
+  "description": "quiz charactersheet generator",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
