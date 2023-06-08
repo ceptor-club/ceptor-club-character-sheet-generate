@@ -1,6 +1,6 @@
 # ceptor-club-character-sheet-generate
 
-This feature allows users to create their own character by answering a series of questions.
+"Create a character based on a quiz. Print a character sheet or mint an NFT." ~Donzo
 
 ## Files
 
